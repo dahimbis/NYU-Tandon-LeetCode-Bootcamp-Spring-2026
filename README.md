@@ -3,7 +3,7 @@ Undertaking the NYU LeetCode Bootcamp to prepare for commonly asked questions.
 # Topics to be covered
 - Sorting, Arrays & Matrices
 - Binary Search & Strings
-- Hash Maps & Linked Lists
+- Hash Maps, Linked Lists and Double Links
 - Stack & Queue
 - Recursion & Trees
 - Heap, Trie, Graph
